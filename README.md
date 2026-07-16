@@ -1,6 +1,6 @@
 #  Gift Shop Management System
 
-A web-based **Gift Shop Management System** developed using **PHP, MySQL, HTML, CSS, JavaScript, and Bootstrap**. The system allows customers to browse gifts, add products to the cart, place orders, and manage their accounts, while providing an admin panel to manage products, categories, users, and customer orders.
+A web-based **Gift Shop Management System** developed using **PHP, MySQL, HTML, CSS, JavaScript and Bootstrap**. The system allows customers to browse gifts, add products to the cart, place orders, and manage their accounts, while providing an admin panel to manage products, categories, users, and customer orders.
 
 ---
 
