@@ -9,8 +9,6 @@ A web-based **Gift Shop Management System** developed using **PHP, MySQL, HTML, 
 ###  Customer Module
 - User Registration & Login
 - Browse Gift Products
-- Search Products
-- Filter by Categories
 - View Product Details
 - Add to Cart
 - Update Cart Quantity
